@@ -1,0 +1,104 @@
+[
+    {
+        "TestCaseName": "Test Case 1",
+        "Passed": true,
+        "ExecutionTime": 0.5,
+        "Timestamp": "2023-11-05T10:15:00"
+    },
+    {
+        "TestCaseName": "Test Case 2",
+        "Passed": false,
+        "ExecutionTime": 1.2,
+        "Timestamp": "2023-11-05T10:30:00"
+    },
+    {
+        "TestCaseName": "Test Case 3",
+        "Passed": true,
+        "ExecutionTime": 0.8,
+        "Timestamp": "2023-11-05T10:45:00"
+    }, 
+    {
+        "TestCaseName": "Test Case 1",
+        "Passed": true,
+        "ExecutionTime": 0.5,
+        "Timestamp": "2023-11-05T10:15:00"
+    },
+    {
+        "TestCaseName": "Test Case 2",
+        "Passed": false,
+        "ExecutionTime": 1.2,
+        "Timestamp": "2023-11-05T10:30:00"
+    },
+     {
+        "TestCaseName": "Test Case 1",
+        "Passed": true,
+        "ExecutionTime": 0.5,
+        "Timestamp": "2023-11-05T10:15:00"
+    },
+    {
+        "TestCaseName": "Test Case 2",
+        "Passed": false,
+        "ExecutionTime": 1.2,
+        "Timestamp": "2023-11-05T10:30:00"
+    },
+     {
+        "TestCaseName": "Test Case 1",
+        "Passed": true,
+        "ExecutionTime":10,
+        "Timestamp": "2023-11-05T10:15:00"
+    },
+    {
+        "TestCaseName": "Test Case 2",
+        "Passed": false,
+        "ExecutionTime": 1.2,
+        "Timestamp": "2023-11-05T10:30:00"
+    },
+     {
+        "TestCaseName": "Test Case 1",
+        "Passed": true,
+        "ExecutionTime": 0.5,
+        "Timestamp": "2023-11-05T10:15:00"
+    },
+    {
+        "TestCaseName": "Test Case 2",
+        "Passed": false,
+        "ExecutionTime": 1.2,
+        "Timestamp": "2023-11-05T10:30:00"
+    },
+     {
+        "TestCaseName": "Test Case 1",
+        "Passed": true,
+        "ExecutionTime": 0.5,
+        "Timestamp": "2023-11-05T10:15:00"
+    },
+    {
+        "TestCaseName": "Test Case 2",
+        "Passed": false,
+        "ExecutionTime": 1.2,
+        "Timestamp": "2023-11-05T10:30:00"
+    },
+     {
+        "TestCaseName": "Test Case 1",
+        "Passed": true,
+        "ExecutionTime": 0.5,
+        "Timestamp": "2023-11-05T10:15:00"
+    },
+    {
+        "TestCaseName": "Test Case 2",
+        "Passed": false,
+        "ExecutionTime": 1.2,
+        "Timestamp": "2023-11-05T10:30:00"
+    },
+     {
+        "TestCaseName": "Test Case 1",
+        "Passed": true,
+        "ExecutionTime": 0.5,
+        "Timestamp": "2023-11-05T10:15:00"
+    },
+    {
+        "TestCaseName": "Test Case 2",
+        "Passed": false,
+        "ExecutionTime": 1.2,
+        "Timestamp": "2023-11-05T10:30:00"
+    }
+]
