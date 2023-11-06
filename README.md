@@ -21,7 +21,7 @@ For information about how to install extensions on Visual Studio Code, see [VS C
 - Parse JSON data into C# objects.
 - Create and export CSV and HTML files.
 - Calculate and display relevant metrics accurately.
-- 
+  
 # Run
 - Clone the project
 - Open VsCode
