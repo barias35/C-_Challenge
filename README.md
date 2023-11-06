@@ -9,7 +9,7 @@ Challenge Description: Assume that you are given a JSON file containing the resu
 
 For information about how to install extensions on Visual Studio Code, see [VS Code Extension Marketplace](https://code.visualstudio.com/docs/editor/extension-marketplace).
 
-## Dependancies
+## Dependencies
 - CsvHelper Version="30.0.1"
 - HtmlAgilityPack Version="1.11.54"
 - Newtonsoft.Json Version="13.0.3
