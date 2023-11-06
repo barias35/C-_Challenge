@@ -30,5 +30,7 @@ For information about how to install extensions on Visual Studio Code, see [VS C
 - Results should be printed in the console
 - Resuts should be exported in the output folder as: "test_results.csv" and "test_results.html"
 
+  **Notes:** test_results.html is an additional feature to export metrics of any execution to allow future implementation of charts, emailable report in HTML format
+
 
 
