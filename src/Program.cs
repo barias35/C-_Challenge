@@ -1,12 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Newtonsoft.Json;
-using CsvHelper;
-using System.Globalization;
 
 
            string outPutFolder = "output/";
-            string jsonFilePath = Path.Combine("data", "testsResult.json");
-            string csvFilePath = Path.Combine(outPutFolder,  "test_results.csv");
+           string jsonFilePath = Path.Combine("data", "testsResult.json");
+           string csvFilePath = Path.Combine(outPutFolder,  "test_results.csv");
            string htmlFilePath = Path.Combine(outPutFolder,"test_results.html");
 
 
