@@ -22,7 +22,7 @@ For information about how to install extensions on Visual Studio Code, see [VS C
 - Create and export CSV and HTML files.
 - Calculate and display relevant metrics accurately.
   
-# Run
+## Run
 - Clone the project
 - Open VsCode
 - Open the folder containing the project
